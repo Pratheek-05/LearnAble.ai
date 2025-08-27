@@ -37,7 +37,3 @@ This prototype lays a strong foundation. Future improvements could include:
 *   **Secure API Key**: Implement a simple Node.js/Express backend to proxy API requests, keeping the API key off the frontend.
 *   **User Accounts**: Add user authentication to track progress and save preferences.
 *   **More Profiles**: Expand the application to support a wider range of learning styles and needs.
-
-##  License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
